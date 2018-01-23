@@ -1,4 +1,4 @@
-# MaterialThemes
+# Angular Material Themes
 
 Demo project to demonstrate Material Themes.
 
